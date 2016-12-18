@@ -1,0 +1,11 @@
+中文官网配置帮助：
+
+http://help.arcgis.com/zh-CN/arcgisserver/10.0/help/arcgis_server_java_help/index.html#//0092000001s6000000
+
+在不同服务器上安装Oracle 和 ArcSDE
+
+http://help.arcgis.com/zh-CN/arcgisserver/10.0/help/arcgis_server_java_help/index.html#/na/002n0000000q000000/
+
+CSDN技术方案
+
+http://blog.csdn.net/linghe301/article/details/25274253
